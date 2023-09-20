@@ -1,0 +1,21 @@
+.body{
+display: flexbox;
+flex-direction: column;
+
+}
+
+.site footer{
+background-color: blue;
+text-align: center;
+text-decoration: overline;
+}
+
+.ul{
+    background-color: beige;
+}
+
+.p{
+    border-radius: 10%;
+
+
+}
